@@ -1,4 +1,4 @@
-<h1 style="color: red;">Hi there <img src="https://raw.githubusercontent.com" width="30px"> I'm Abdurrahman Auf</h1>
+<h1 style="color: red;">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Abdurrahman Auf</h1>
 
 A passionate **.NET Developer** dedicated to building creative and functional digital solutions.
 
