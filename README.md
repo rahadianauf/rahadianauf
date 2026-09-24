@@ -43,18 +43,8 @@
 | [restaurant_apps](https://github.com/rahadianauf/restaurant_apps) | Restaurant ordering application | JavaScript |
 | [Tryanys/Warehouse](https://github.com/Tryanys/Warehouse) | Warehouse management system | Visual Basic .NET |
 
----
 -->
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahadianauf&show_icons=true&theme=default" alt="rahadianauf's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadianauf&layout=compact" alt="Top Languages" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahadianauf" alt="GitHub Streak" />
-</p>
 
 ---
 
